@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.rr{
+	width:1488px;
+	height:738px;
+}
+.pp{
+	position: absolute;
+	top: 20px;
+	left:33%;
+	font-size: 70px;
+	color: #FFFFFF;
+}
+.oo{
+	position: absolute;
+	top: 610px;
+	left:44%;
+	font-size: 24px;
+	color:#DC6200;
+}
